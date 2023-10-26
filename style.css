@@ -59,7 +59,7 @@
   background-position: center center;
   background-size: 100% 100%;
   background-repeat: no-repeat;
-  height: 700px;
+  height: 960px;
 }
 
 @media (max-width:991px) {
@@ -147,8 +147,8 @@
   padding: 15px 25px;
   font-size: 22px;
   background-image: none;
-  background-color: #FF4000;
-  border-color: #FF4000;
+  background-color: #0059ff;
+  border-color: #0059ff;
   color: #ffffff;
 }
 
@@ -156,8 +156,8 @@
 .btn:hover {
   border-radius: 0px;
   background-image: none;
-  background-color: #FF4000;
-  border-color: #FF4000;
+  background-color: #0059ff;
+  border-color: #0059ff;
   color: #ffffff;
   margin-bottom: 20px;
   box-shadow: none;
