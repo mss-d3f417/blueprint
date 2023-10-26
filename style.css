@@ -72,6 +72,10 @@
   background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://s6.uupload.ir/files/blue_print(2)_jzaq.png");
 }
 
+.carousel .background.b {
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://s6.uupload.ir/files/blue_print(2)_jzaq.png");
+}
+
 .carousel .background.c {
   background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://s6.uupload.ir/files/blue_print_jkgn.png");
 }
