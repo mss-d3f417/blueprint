@@ -68,10 +68,6 @@
   }
 }
 
-.carousel .background.a {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("");
-}
-
 .carousel .background.b {
   background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://s6.uupload.ir/files/blue_print(2)_jzaq.png");
 }
