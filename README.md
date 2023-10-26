@@ -40,7 +40,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
+![](https://filebin.net/v46nn0hrn6e3gpuc/bandicam_2023-10-26_02-32-12-081.jpg)
+![](https://filebin.net/v46nn0hrn6e3gpuc/bandicam_2023-10-26_02-32-47-469.jpg)
 A software only for destroying and infecting systems With the ability to create more than 20 types of Windows viruses :)
 
 ![](https://s6.uupload.ir/files/bandicam_2023-10-15_03-51-51-719_o9t2.jpg)
